@@ -8,7 +8,7 @@ The aim of this project is to analyze music store sales data using MySQL to gene
 These insights will assist in making strategic decisions to enhance the store's operations and customer satisfaction.# Music_Store_Analysi_using_SQL.
 
 
-🎯 Questions Answered 
+🎯Questions Answered 
 
 1. Who is the senior most employee based on job title?
    
@@ -31,16 +31,22 @@ These insights will assist in making strategic decisions to enhance the store's 
 10. List top 5 most popular songs?
 
 11. What are the most popular countries  for music purchase?
+    
 
 
-🛠️ Tools Used
+🗃️Databas and Tools
 
-Postgre SQL
+1. Postgre SQL
 
-PgAdmin4
+2. PgAdmin4
 
-🗃️ Database
+
+🗂️ Schema
+
+
 ![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/c067d1a2-369c-4e3f-9d19-95a02bf1db41)
+
+
 
 
 🎓 Credits
@@ -71,7 +77,7 @@ Throughout this project, I drew inspiration from an insightful video source : ht
 
 
 📊 Conclusion
-This project successfully analyzed the music store's business performance using PostgreSQL. We identified key insights into customer preferences, sales trends, and popular products, helping the store make informed decisions. 
 
-These findings will assist in optimizing marketing strategies, improving product offerings, and enhancing overall business growth.
+This project successfully analyzed the music store's business performance using PostgreSQL. We identified key insights into customer preferences, sales trends, and popular products, helping the store make 
+ informed decisions. These findings will assist in optimizing marketing strategies, improving product offerings, and enhancing overall business growth.
     
